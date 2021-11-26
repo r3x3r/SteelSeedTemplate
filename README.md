@@ -1,2 +1,2 @@
 # SteelSeedTemplate
-Steel wallet stamp template for crypto wallets.
+Steel wallet stamp template for 6mm shank typeset for crypto wallets.
